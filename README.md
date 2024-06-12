@@ -1,2 +1,14 @@
 # roblox-group-wall-spammer
-It spams on roblox wall groups, also it has captcha solver and if ratelimit detected will be paused for 10s. Make sure to check config.json from file to change the message which it will be sended
+
+# Install this request: pip install requests pytesseract pillow
+Add your cookies at cookies.txt and add the groups at groups.txt
+
+# This setup its very easy and done in only 3 minutes!
+
+Glad to see you installing our product, team
+█╗░░░██╗██╗░░░██╗██╗░░░██╗███████╗
+╚██╗░██╔╝╚██╗░██╔╝╚██╗░██╔╝╚════██║
+░╚████╔╝░░╚████╔╝░░╚████╔╝░░░░░██╔╝
+░░╚██╔╝░░░░╚██╔╝░░░░╚██╔╝░░░░░██╔╝░
+░░░██║░░░░░░██║░░░░░░██║░░░░░██╔╝░░
+░░░╚═╝░░░░░░╚═╝░░░░░░╚═╝░░░░░╚═╝░░░
