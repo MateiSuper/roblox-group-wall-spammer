@@ -5,13 +5,12 @@ from io import BytesIO
 import time
 import json
 
-# Load configuration from config.json
 with open('config.json', 'r') as file:
     config = json.load(file)
 
-# Print decorative text at the start
 print("""
-█╗░░░██╗██╗░░░██╗██╗░░░██╗███████╗
+
+██╗░░░██╗██╗░░░██╗██╗░░░██╗███████╗
 ╚██╗░██╔╝╚██╗░██╔╝╚██╗░██╔╝╚════██║
 ░╚████╔╝░░╚████╔╝░░╚████╔╝░░░░░██╔╝
 ░░╚██╔╝░░░░╚██╔╝░░░░╚██╔╝░░░░░██╔╝░
@@ -26,7 +25,6 @@ groups_file = config['groups_file']
 captcha_url = config['captcha_url']
 group_wall_url_template = config['group_wall_url_template']
 
-# Load cookies from cookies.txt
 def load_cookies(file_path):
     cookies = {}
     with open(file_path, 'r') as file:
@@ -37,7 +35,6 @@ def load_cookies(file_path):
             cookies[name] = value
     return cookies
 
-# Load group IDs from groups.txt
 def load_groups(file_path):
     with open(file_path, 'r') as file:
         return [line.strip() for line in file if line.strip()]
