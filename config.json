@@ -1,0 +1,7 @@
+{
+    "message": "YYY7 WAS HERE",
+    "cookies_file": "cookies.txt",
+    "groups_file": "groups.txt",
+    "captcha_url": "https://www.roblox.com/captcha",
+    "group_wall_url_template": "https://groups.roblox.com/v1/groups/{group_id}/wall/posts"
+}
