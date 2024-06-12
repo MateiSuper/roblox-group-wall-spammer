@@ -3,12 +3,9 @@
 # Install this request: pip install requests pytesseract pillow
 Add your cookies at cookies.txt and add the groups at groups.txt
 
-# This setup its very easy and done in only 3 minutes!
+# This setup its very easy and done in only 2-3 minutes!
 
-Glad to see you installing our product, team
-█╗░░░██╗██╗░░░██╗██╗░░░██╗███████╗
-╚██╗░██╔╝╚██╗░██╔╝╚██╗░██╔╝╚════██║
-░╚████╔╝░░╚████╔╝░░╚████╔╝░░░░░██╔╝
-░░╚██╔╝░░░░╚██╔╝░░░░╚██╔╝░░░░░██╔╝░
-░░░██║░░░░░░██║░░░░░░██║░░░░░██╔╝░░
-░░░╚═╝░░░░░░╚═╝░░░░░░╚═╝░░░░░╚═╝░░░
+We are glad to see you installing our product, team YYY7
+
+Join our discords server:
+https://discord.gg/twGfPPEnHF
